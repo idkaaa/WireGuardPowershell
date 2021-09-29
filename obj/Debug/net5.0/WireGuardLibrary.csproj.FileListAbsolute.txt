@@ -1,0 +1,5 @@
+C:\Tools\wireguard-server\wireguard\WireGuardLibrary\obj\Debug\net5.0\WireGuardLibrary.csproj.AssemblyReference.cache
+C:\Tools\wireguard-server\wireguard\WireGuardLibrary\obj\Debug\net5.0\WireGuardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tools\wireguard-server\wireguard\WireGuardLibrary\obj\Debug\net5.0\WireGuardLibrary.AssemblyInfoInputs.cache
+C:\Tools\wireguard-server\wireguard\WireGuardLibrary\obj\Debug\net5.0\WireGuardLibrary.AssemblyInfo.cs
+C:\Tools\wireguard-server\wireguard\WireGuardLibrary\obj\Debug\net5.0\WireGuardLibrary.csproj.CoreCompileInputs.cache
