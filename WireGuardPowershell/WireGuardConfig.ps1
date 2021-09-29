@@ -3,7 +3,7 @@
  # information for a WireGuard VPN Server and/or Clients
  #>
 
- using module .\IniFile.psm1
+ using module .\IniFile.ps1
 
 <#
  # Public or Private key for a WireGuard Interface 
@@ -101,19 +101,3 @@ class ConfigFile
     }
 }
 
-
-
-$loader = [TypeLoader]::new("./TunnelDll");
-
-$KeyPairType = $loader.LoadDll(".\Keypair.cs");
-
-$KeyPairType | Get-Member
-
-
-
-
-
-
-$server_conf = [ConfigFile]::New
-
-$server_conf | Get-Member

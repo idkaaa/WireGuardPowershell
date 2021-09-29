@@ -1,8 +1,8 @@
-using module .\IniFile.psm1
-using module .\TypeLoader.psm1
+using module .\IniFile.ps1
+using module .\TypeLoader.ps1
 
 
-$loader = [TypeLoader]::new("./TunnelDll");
+$loader = [TypeLoader]::new("./libs/TunnelDll");
 
 $KeyPairType = $loader.LoadDll(".\Keypair.cs");
 
